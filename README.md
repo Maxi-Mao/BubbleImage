@@ -19,3 +19,7 @@ setLocalImageBitmap(Bitmap bm, int res)
 ```
 
 大家可以根据需要加载图片。其中的参数代码中都有详细介绍。 
+
+该项目图片加载框架为universal-image-loader。详见[Android聊天页面发送图片定制(类似微信)](http://blog.csdn.net/omrapollo/article/details/51093766)
+
+还有用Glide封装的，详见[Android聊天界面搭建](http://blog.csdn.net/omrapollo/article/details/52691320)中的BubbleImageView类
